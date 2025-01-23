@@ -6,7 +6,7 @@ Welcome to the official page for **Minecraft APK v1.21.51**, the ultimate Androi
 
 ## 📥 **Download Now**
 
-[![Download Minecraft APK](https://img.shields.io/badge/Download-Minecraft%20APK-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://apkbros.com/minecraft-apk/)
+[Download APK](https://apkbros.com/minecraft-apk/)
 
 ---
 **Minecraft APK v1.21.51** for Android 2025 brings the ultimate block-building adventure with new biomes, mobs, and enhanced visuals. Enjoy smoother performance and multiplayer support for endless creativity and exploration. Download the official APK to experience the most immersive Minecraft gameplay on Android today!

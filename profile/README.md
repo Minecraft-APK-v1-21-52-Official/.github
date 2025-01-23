@@ -132,7 +132,7 @@ For more details, refer to the LICENSE file in this repository.
 🌐 **Follow Us**
 
 Stay connected for the latest updates and news:  
-- **GitHub Repository**: YourRepoLinkHere  
+- **GitHub Repository**:  
 - **Official Website**: Minecraft  
 
 ---
